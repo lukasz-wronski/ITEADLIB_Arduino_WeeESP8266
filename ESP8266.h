@@ -1,5 +1,3 @@
-errororororororo
-
 /**
  * @file ESP8266.h
  * @brief The definition of class ESP8266. 
